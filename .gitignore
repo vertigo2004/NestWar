@@ -1,0 +1,13 @@
+.*
+*/target/*
+target/*
+out/*
+
+*.iml
+*.ipr
+*.ids
+*.iws
+*.jar.index
+atlassian-ide-plugin.xml
+
+MANIFEST.MF
